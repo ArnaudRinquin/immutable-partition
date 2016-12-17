@@ -1,5 +1,7 @@
 # immutable-partition
 
+[![Build Status](https://travis-ci.org/ArnaudRinquin/immutable-partition.svg?branch=master)](https://travis-ci.org/ArnaudRinquin/immutable-partition)
+
 A partitioning helper returning an [`immutablejs`](https://facebook.github.io/immutable-js/) Map of Lists:
 
 
